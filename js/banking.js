@@ -39,9 +39,6 @@ document.getElementById('withdraw-btn').addEventListener('click', function () {
 
 
 
-
-
-
 // //deposit & balance
 // document.getElementById('deposit-btn').addEventListener('click', function () {
 //     // get new deposited amount
